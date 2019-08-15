@@ -1,0 +1,11 @@
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/bin/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.deps.json
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/bin/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.runtimeconfig.json
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/bin/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.runtimeconfig.dev.json
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/bin/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.dll
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/bin/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.pdb
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.csprojAssemblyReference.cache
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.csproj.CoreCompileInputs.cache
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.AssemblyInfoInputs.cache
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.AssemblyInfo.cs
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.dll
+/Users/adam.buglass/Source/buglass/DotNetSimpleCodeQuality/obj/Debug/netcoreapp2.2/DotNetSimpleCodeQuality.pdb
